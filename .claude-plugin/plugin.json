@@ -1,0 +1,8 @@
+{
+  "name": "product-thinking",
+  "version": "1.0.0",
+  "description": "A Socratic planning skill for non-engineers: turns a raw idea into a build-ready plan, with the technical calls made for the author and the reasons attached",
+  "author": { "name": "Robert Nyborg" },
+  "license": "MIT",
+  "keywords": ["product", "planning", "prd", "scoping", "build-vs-buy"]
+}

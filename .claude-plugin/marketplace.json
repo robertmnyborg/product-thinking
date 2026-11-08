@@ -1,0 +1,14 @@
+{
+  "name": "product-thinking",
+  "description": "A Socratic planning skill that turns a non-engineer's idea into a build-ready plan",
+  "owner": {
+    "name": "Robert Nyborg"
+  },
+  "plugins": [
+    {
+      "name": "product-thinking",
+      "source": "./",
+      "description": "A Socratic planning skill for non-engineers: turns a raw idea into a build-ready plan"
+    }
+  ]
+}
