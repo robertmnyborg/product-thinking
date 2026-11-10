@@ -6,10 +6,20 @@ AI coding tools don't stop and ask *why*. The person using them usually already 
 
 ## Install
 
+Claude Code:
+
 ```
-/plugin marketplace add robertmnyborg/product-thinking
-/plugin install product-thinking@product-thinking
+/plugin marketplace add robertmnyborg/claude-harness
+/plugin install product-thinking@claude-harness
 ```
+
+Codex, Cursor, and other agents that read `SKILL.md`, via the [skills CLI](https://skills.sh):
+
+```bash
+npx skills add robertmnyborg/product-thinking
+```
+
+This repo is also its own marketplace: `/plugin marketplace add robertmnyborg/product-thinking`, then `/plugin install product-thinking@product-thinking`.
 
 ## Use it
 
